@@ -7,3 +7,4 @@ The results of the model were:
 2) Test Data : 77.31%
 
 
+![alt text](https://image.shutterstock.com/image-vector/texas-holdem-poker-hand-rankings-260nw-1240619692.jpg)
